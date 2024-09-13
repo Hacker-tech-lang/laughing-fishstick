@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+textarea {
+    width: 300px;
+}
+
+pre {
+    background-color: #f4f4f4;
+    padding: 10px;
+}
