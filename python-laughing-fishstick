@@ -1,0 +1,6 @@
+cd matrix-website
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/yourusername/python-laughing-fishstick.git
+git push -u origin master
