@@ -37,3 +37,4 @@ This project addresses common issues users face while trying to update Infinix s
 
 6. **Factory Reset (if necessary)**  
    As a last resort, perform a factory reset to resolve persistent update issues (ensure you back up your data before doing this).
+## fb nood978240
